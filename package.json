@@ -1,0 +1,18 @@
+{
+  "name": "gulp-invited",
+  "version": "0.0.2",
+  "description": "Gulp Workflow for Get Invited",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "~3.8.8",
+    "gulp-sass": "~1.2.2",
+    "gulp-autoprefixer": "1.0.0",
+    "gulp-insert": "~0.4.0",
+    "gulp-replace": "~0.4.0",
+    "gulp-connect": "~2.0.6",
+    "gulp-changed": "~1.0.0",
+    "gulp-file-include": "~0.5.1",
+    "glob": "^4.0.5",
+    "gulp-minify-css": "^0.3.8"
+  }
+}
